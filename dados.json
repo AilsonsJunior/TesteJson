@@ -1,0 +1,14 @@
+{
+    "pessoas": [
+        {
+            "nome": "junior",
+            "filhos": []
+        },
+        {
+            "nome": "Jose",
+            "filhos": [
+                "menino"
+            ]
+        }
+    ]
+}

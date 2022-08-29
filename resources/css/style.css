@@ -1,0 +1,73 @@
+.container {
+    
+    margin: 20px 0 0 0 ;
+    display: flex;
+    
+}
+
+.pessoas {
+    width: 350px;
+}
+
+.header {
+    background-color: gray;
+    text-align: center;
+    height: 30px;
+    padding: auto;
+    
+}
+
+.footer {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.rpessoa, .nomepessoa {
+    background-color: rgb(190, 190, 190);
+}
+
+.nomefilho, .rfilho {
+    background-color: rgb(204, 204, 204);
+}
+
+.cadpessoa {
+    display: flex;
+    height: 30px;
+    gap: 2px;
+    margin: 2px;
+}
+
+.cadfilho {
+    display: flex;
+    height: 40px;
+    gap: 2px;
+    margin: 2px;
+}
+
+.nomepessoa {
+    width: 70%;
+    padding: 2px;
+}
+
+.rpessoa {
+   width: 30%;
+   align-items: center;
+}
+
+.nomefilho {
+    width: 70%;
+}
+
+.rfilho {
+    width: 30%;
+    justify-items: center;
+}
+
+
+.display {
+    margin:  0 0 0 20px ;
+}
+
+
+
